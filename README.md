@@ -4,7 +4,8 @@
  Website ini dibangun dengan menggunakan Framework Laravel, HTML/CSS, PHP, Javascript, Bootsrap.
  
  Website ini memiliki tiga jenis user, yaitu customer, admin, dan owner. Dimana customer melakukan pemesanan,
- lalu akan diolah oleh admin, dan owner dapat melihat laporan hasil penjualan. 
+ lalu akan diolah oleh admin, dan owner dapat melihat laporan seperti menu terlaris, customer dengan 
+ pembelian terbanyak, dan laporan hasil penjualan pertanggal. 
  
  Cara menjalankan :
  1. Download lalu extract pada direktori kalian
